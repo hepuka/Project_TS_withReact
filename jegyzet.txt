@@ -1,0 +1,10 @@
+npm create vite@latest
+
+react
+typescript
+
+
+npm run dev
+
+project source
+https://www.youtube.com/watch?v=gieEQFIfgYc&list=PL2-w4zA7zkIyHjaB848f1qXv2AKf8hHOY&index=19&t=17391s
